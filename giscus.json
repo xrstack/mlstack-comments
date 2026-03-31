@@ -1,0 +1,9 @@
+{
+  "origins": [
+    "https://mlstack.org",
+    "https://www.mlstack.org"
+  ],
+  "originsRegex": [
+    "http://localhost:[0-9]+"
+  ]
+}
